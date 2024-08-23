@@ -14,7 +14,7 @@ function abrir_modal() {
 }*/
 
 
-}
+
 
 function cerrar_modal(){
   modal.classList.remove('visible');
